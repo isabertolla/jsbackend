@@ -1,7 +1,7 @@
 {
-  "name": "aula3",
+  "name": "expressjs",
   "version": "1.0.0",
-  "main": "exercicio01.js",
+  "main": "express.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "type": "module",
   "dependencies": {
     "express": "^5.2.1"
   }
